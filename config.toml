@@ -1,0 +1,35 @@
+baseURL = 'https://katiemora.github.io/'
+languageCode = 'en-us'
+title = 'Katie Mora'
+theme = "notrack"
+mainSections = ["blog"]
+# disqusShortname = "example"
+paginate = 4
+
+[params]
+  author = "Katie Mora"
+  siteHeading = "Katie Mora" # defaults to author
+#  favicon = "hugo_grotius.png" # Adds a small icon next to the page title in a tab
+  showBlogLatest = true
+  mainSections = ["blog"]
+  showTaxonomyLinks = false
+  nBlogLatest = 1 # number of blog post om the home page
+  blogLatestHeading = "My writing"
+  footer = "Copyright 2023. All Rights Reserved."
+
+  [params.social]
+#    github = "example"
+#    linkedin = "example"
+    email = "kathleenmeganmora@gmail.com"
+#    mastodon = "example"
+#    medium = "example"
+#    keybase = "example"
+
+[taxonomies]
+  year = "year"
+  month = "month"
+  tags = "tags"
+  categories = "categories"
+
+[permalinks]
+  blog = "/blog/:year/:month/:slug"
