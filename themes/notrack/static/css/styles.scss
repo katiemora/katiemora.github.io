@@ -52,8 +52,10 @@ html {
 
 body {
     margin: 0;
+    padding: 1em;
+    box-sizing: border-box;
     min-height: 100vh;
-    overflow-y: scroll;
+    overflow-y: auto;
     font-size: $base-font-size * 1.1;
     line-height: $base-line-height * 1.1;
     font-family: FreeSerif, serif;
@@ -338,7 +340,6 @@ nav li:hover {
     text-align: center;
     display: flex;
     flex-flow: row wrap;
-    margin: 1em 1em 0 1em;
 }
 
 .myname {
