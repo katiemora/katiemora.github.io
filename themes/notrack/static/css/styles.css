@@ -13,6 +13,7 @@ body {
   font-size: 1.21em;
   line-height: 1.21;
   font-family: "Cormorant Upright", FreeSerif, serif;
+  background-color: #e3cc66;
 }
 @media (min-width: 64em) {
   body {
@@ -41,7 +42,6 @@ main {
   display: block;
   margin: 0;
   padding: 1em 1em;
-  background-color: white;
 }
 @media (min-width: 48em) {
   main {
@@ -207,13 +207,13 @@ figcaption h4 {
   text-align: left;
 }
 
-.page-title {
-  text-align: center;
+.page-title, h1 {
   font-size: 1.9em;
+  font-weight: 500;
+  font-style: italic;
 }
 
 .page-title.blog {
-  text-align: left;
   margin-bottom: 0.5em;
 }
 
@@ -251,13 +251,13 @@ nav a {
 }
 
 nav li:hover {
-  border-color: #ddd;
+  border-color: #888;
 }
 
 .dropdown .sub-menu {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: #e1c859;
   color: #444;
   cursor: pointer;
   border-width: 0 0 0.3em 0;
@@ -272,7 +272,7 @@ nav li:hover {
 }
 
 .sub-menu a:hover {
-  background-color: #474a4f;
+  background-color: #444;
   color: white;
 }
 
@@ -284,12 +284,7 @@ nav li:hover {
 }
 
 .dropdown.activetab, .activetab, li.activetab {
-  background-color: #474a4f;
-  border-color: white;
-}
-
-.activetab > a, a.activetab {
-  color: white;
+  border-color: #444;
 }
 
 .page-header {
@@ -309,7 +304,7 @@ nav li:hover {
   color: black;
   text-decoration: none;
   font-style: italic;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .myname h2 {
@@ -388,7 +383,7 @@ em.taxonomy-emph {
 }
 .taxonomy-links ul li a {
   display: inline-block;
-  background-color: #ddd;
+  background-color: #888;
   font-size: 1.5em;
   text-align: center;
   color: #444;
@@ -415,10 +410,10 @@ em.taxonomy-emph {
 }
 
 .page-item.active {
-  background-color: #474a4f;
+  background-color: #444;
 }
 .page-item.active a {
-  background-color: #474a4f;
+  background-color: #444;
   color: white;
 }
 
@@ -752,7 +747,5 @@ footer {
   padding-bottom: 0.1em;
   bottom: 0;
   left: 0;
-  background-color: #f7f7f7;
+  background-color: #e0c655;
 }
-
-/*# sourceMappingURL=styles.css.map */
