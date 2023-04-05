@@ -12,7 +12,7 @@ body {
   overflow-y: auto;
   font-size: 1.21em;
   line-height: 1.21;
-  font-family: FreeSerif, serif;
+  font-family: "Cormorant Upright", FreeSerif, serif;
 }
 @media (min-width: 64em) {
   body {
@@ -70,13 +70,12 @@ main {
 }
 
 a {
-  font-family: FreeSerif, serif;
+  font-weight: 500;
   color: #07608f;
   text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: FreeSans, sans-serif;
   font-weight: bold;
   font-style: normal;
   color: #333;
@@ -84,19 +83,16 @@ h1, h2, h3, h4, h5, h6 {
 
 p, li {
   color: #444;
-  font-family: FreeSerif, serif;
   text-align: justify;
 }
 
 strong {
   font-style: normal;
-  font-family: FreeSerif, serif;
   font-weight: bold;
 }
 
 em {
   font-style: normal;
-  font-family: FreeSerif, serif;
   font-style: italic;
 }
 
@@ -116,18 +112,15 @@ pre code {
 }
 
 th {
-  font-family: FreeSerif, serif;
   font-weight: bold;
   color: #444;
 }
 
 td {
-  font-family: FreeSerif, serif;
   color: #444;
 }
 
 .footnotes ol li {
-  font-family: FreeSerif, serif;
   font-size: 0.8em;
 }
 
@@ -253,7 +246,6 @@ nav li {
 nav a {
   color: #444;
   padding: 0.25em 0.63em;
-  font-family: FreeSans, sans-serif;
   font-size: 1.2em;
   display: block;
 }
@@ -316,7 +308,6 @@ nav li:hover {
 .myname a {
   color: black;
   text-decoration: none;
-  font-family: FreeSerif, serif;
   font-style: italic;
   font-weight: bold;
 }
@@ -351,7 +342,6 @@ nav li:hover {
 }
 .blog-post-title a {
   color: #333;
-  font-family: FreeSans, sans-serif;
 }
 
 .blog-post-info {
@@ -366,7 +356,6 @@ nav li:hover {
 }
 
 em.taxonomy-emph {
-  font-family: FreeSans, sans-serif;
   font-style: oblique;
 }
 
@@ -410,7 +399,6 @@ em.taxonomy-emph {
 
 .pagination {
   list-style-type: none;
-  font-family: FreeSans, sans-serif;
   display: flex;
   justify-content: center;
   margin: 1em;
@@ -466,7 +454,6 @@ em.taxonomy-emph {
   list-style-type: "– ";
 }
 .category-content ul, .category-content ol {
-  font-family: FreeSans, sans-serif;
   margin-top: 0;
 }
 .category-content li {
@@ -478,13 +465,11 @@ em.taxonomy-emph {
   margin: 0 0 1em 0;
 }
 .resume-entry .what {
-  font-family: FreeSans, serif;
   text-align: left;
   font-size: 1em;
   color: #444;
 }
 .resume-entry .resume-entry-data {
-  font-family: FreeSans, serif;
   text-align: left;
   font-size: 0.8em;
   color: #767676;
@@ -496,14 +481,12 @@ em.taxonomy-emph {
   margin-left: 0.9rem;
 }
 .resume-entry p, .resume-entry ul, .resume-entry ol, .resume-entry li {
-  font-family: FreeSerif, serif;
   color: #5f5a6f;
   text-align: left;
   font-size: 0.9em;
 }
 
 p.resume-subcategory {
-  font-family: FreeSans, sans-serif;
   font-size: 1.4em;
   text-decoration: underline;
   padding: 0 0 0.3em 0;
@@ -535,7 +518,6 @@ p.resume-subcategory {
   white-space: nowrap;
   color: #3f444d;
   font-size: 1em;
-  font-family: FreeSans, sans-serif;
 }
 .social ul li a i {
   font-size: 2em;
@@ -564,7 +546,6 @@ p.resume-subcategory {
   padding-right: 0.3em;
 }
 .contactbox a {
-  font-family: FreeSans, sans-serif;
   font-weight: bold;
   font-size: 1em;
   color: #524e59;
@@ -596,13 +577,11 @@ p.resume-subcategory {
 }
 
 blockquote {
-  font-family: FreeSerif, serif;
   font-size: 0.9em;
   color: #444;
 }
 
 cite {
-  font-family: FreeSerif, serif;
   font-style: italic;
 }
 
