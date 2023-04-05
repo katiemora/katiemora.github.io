@@ -1,4 +1,4 @@
-baseURL = 'https://katiemora.github.io/'
+baseURL = 'https://katiemora.com/'
 languageCode = 'en-us'
 title = 'Katie Mora'
 theme = "notrack"
@@ -8,7 +8,7 @@ paginate = 4
 
 [params]
   author = "Katie Mora"
-  siteHeading = "Katie Mora" # defaults to author
+#  siteHeading = "Katie Mora" # defaults to author
 #  favicon = "hugo_grotius.png" # Adds a small icon next to the page title in a tab
   showBlogLatest = true
   mainSections = ["blog"]
