@@ -71,7 +71,7 @@ main {
 
 a {
   font-weight: 500;
-  color: #07608f;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -251,7 +251,10 @@ nav a {
 }
 
 nav li:hover {
-  border-color: #888;
+  border-color: #fff;
+}
+nav li:hover a {
+  color: #fff;
 }
 
 .dropdown .sub-menu {

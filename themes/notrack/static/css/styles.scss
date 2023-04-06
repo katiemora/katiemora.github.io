@@ -109,7 +109,7 @@ main {
 
 a {
     font-weight: 500;
-    color: $midnight-blue;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -287,7 +287,10 @@ nav a {
 }
 
 nav li:hover {
-    border-color: $tab-border-color;
+    border-color: #fff;
+    a {
+        color: #fff;
+    }
 }
 
 .dropdown .sub-menu {
