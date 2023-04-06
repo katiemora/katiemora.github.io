@@ -71,8 +71,11 @@ main {
 
 a {
   font-weight: 500;
+  color: inherit;
+}
+
+a:hover {
   color: #fff;
-  text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -248,6 +251,7 @@ nav a {
   padding: 0.25em 0.63em;
   font-size: 1.2em;
   display: block;
+  text-decoration: none;
 }
 
 nav li:hover {
@@ -284,6 +288,7 @@ nav li:hover a {
   text-align: left;
   padding: 0.2em 0.63em;
   color: #444;
+  text-decoration: none;
 }
 
 .dropdown.activetab, .activetab, li.activetab {
@@ -340,6 +345,7 @@ nav li:hover a {
 }
 .blog-post-title a {
   color: #333;
+  text-decoration: none;
 }
 
 .blog-post-info {
@@ -393,6 +399,7 @@ em.taxonomy-emph {
   padding: 0.5em;
   flex-grow: 1;
   text-transform: capitalize;
+  text-decoration: none;
 }
 
 .pagination {
@@ -410,6 +417,7 @@ em.taxonomy-emph {
 }
 .page-item a {
   color: #444;
+  text-decoration: none;
 }
 
 .page-item.active {
@@ -442,6 +450,7 @@ em.taxonomy-emph {
 }
 .category-content a {
   color: #4c7e99;
+  text-decoration: none;
 }
 .category-content p {
   margin: 0;
@@ -516,6 +525,7 @@ p.resume-subcategory {
   white-space: nowrap;
   color: #3f444d;
   font-size: 1em;
+  text-decoration: none;
 }
 .social ul li a i {
   font-size: 2em;
@@ -548,6 +558,7 @@ p.resume-subcategory {
   font-size: 1em;
   color: #524e59;
   white-space: nowrap;
+  text-decoration: none;
 }
 .contactbox img {
   height: 0.7em;

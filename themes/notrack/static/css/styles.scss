@@ -109,8 +109,11 @@ main {
 
 a {
     font-weight: 500;
+    color: inherit;
+}
+
+a:hover {
     color: #fff;
-    text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -284,6 +287,7 @@ nav a {
     padding: .25em .63em;
     font-size: 1.2em;
     display: block;
+    text-decoration: none;
 }
 
 nav li:hover {
@@ -320,6 +324,7 @@ nav li:hover {
     text-align: left;
     padding: .2em .63em;
     color: $text-color;
+    text-decoration: none;
 }
 
 .dropdown.activetab, .activetab, li.activetab {
@@ -378,6 +383,7 @@ nav li:hover {
 
     a {
         color: $heading-gray;
+        text-decoration: none;
     }
 }
 
@@ -426,6 +432,7 @@ em.taxonomy-emph {
             padding: .5em;
             flex-grow: 1;
             text-transform: capitalize;
+            text-decoration: none;
         }
 }
 
@@ -444,6 +451,7 @@ em.taxonomy-emph {
 
     a {
         color: $text-color;
+        text-decoration: none;
     }
 }
 
@@ -481,6 +489,7 @@ em.taxonomy-emph {
 
     a {
         color: $midnight-matte;
+        text-decoration: none;
     }
 
     p { 
@@ -565,6 +574,7 @@ p.resume-subcategory {
                 white-space: nowrap;
                 color: #3f444d;
                 font-size: 1em;
+                text-decoration: none;
 
                 i {
                     font-size: 2em;
@@ -603,6 +613,7 @@ p.resume-subcategory {
         font-size: 1em;
         color: $contactlinks-text-color;
         white-space: nowrap;
+        text-decoration: none;
     }
 
     img {
