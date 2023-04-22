@@ -12,10 +12,9 @@ menu:
 ## Fiction
 ["The Record Collector."](https://gonelawn.net/journal/issue32/Mora.php) *Gone Lawn*, 32 (Vernal Equinox), 2019.
 
-## Forthcoming
+["God Comes to Tres Piedras."](https://www.fatalflawlit.com/fiction-pieces/god-comes-to-tres-piedras) *Fatal Flaw Literary Magazine*, Volume 9, 2023.
 
-### Fiction
-"God Comes to Tres Piedras." *Fatal Flaw Literary Magazine*.
+## Forthcoming
 
 ### Poetry
 "The Assumption." *Progenitor Art & Literary Journal*.
