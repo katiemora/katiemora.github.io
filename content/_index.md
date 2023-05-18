@@ -15,8 +15,8 @@ menu:
 ["The Record Collector."](https://gonelawn.net/journal/issue32/Mora.php) *Gone Lawn*, 32 (Vernal Equinox), 2019.
 
 ## Poetry
-["Doves."](https://thirdwednesdaymagazine.org/2023/05/18/doves-katie-mora/) *Third Wednesday*, May 18, 2023.
-* *Also forthcoming in the Third Wednesday Summer 2023 print edition*
+["Doves."](https://thirdwednesdaymagazine.org/2023/05/18/doves-katie-mora/) *Third Wednesday*, May 18, 2023.  
+&emsp;*Also forthcoming in the Third Wednesday Summer 2023 print edition*
 
 ["The Assumption."](https://accprogenitor58.wordpress.com/poetry/) *Progenitor Art & Literary Journal*, Volume 58, 2023, p. 19.
 
