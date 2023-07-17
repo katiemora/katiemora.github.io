@@ -19,8 +19,11 @@ menu:
 ## Poetry
 ["The Mesophile."](https://www.theshorepoetry.org/katie-mora-the-mesophile) *The Shore*, Issue 18 (Summer), 2023.
 
-["Doves."](https://thirdwednesdaymagazine.org/2023/05/18/doves-katie-mora/) *Third Wednesday*, May 18, 2023.  
-&emsp;*Also forthcoming in the Third Wednesday Summer 2023 print edition*
+["Doves."](https://thirdwednesdaymagazine.org/2023/05/18/doves-katie-mora/) *Third Wednesday*, Volume 26, Issue 3 (Summer), 2023, p. 53.  
 
 ["The Assumption."](https://accprogenitor58.wordpress.com/poetry/) *Progenitor Art & Literary Journal*, Volume 58, 2023, p. 19.
 
+# Forthcoming
+
+## Fiction
+"I Play My Part." *Terrain.org*
