@@ -27,3 +27,5 @@ menu:
 
 ## Fiction
 "I Play My Part." *Terrain.org*
+
+"Extinction Debt." *Blue Earth Review*
