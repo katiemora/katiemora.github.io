@@ -10,6 +10,10 @@ menu:
 # Works
 
 ## Fiction
+"Extinction Debt." *Blue Earth Review*, Issue 31 (Fall), 2023, pp. 25-31.
+
+["I Play My Part."](https://www.terrain.org/2023/fiction/i-play-my-part/) *Terrain.org*, November 14, 2023.
+
 ["Flightline."](https://www.magcloud.com/webviewer/2517945?__r=&s=v) *Willows Wept Review*, Issue 29 (Summer), 2023, p. 38.
 
 ["God Comes to Tres Piedras."](https://www.fatalflawlit.com/fiction-pieces/god-comes-to-tres-piedras) *Fatal Flaw Literary Magazine*, Volume 9 (Agency), 2023.
@@ -26,6 +30,6 @@ menu:
 # Forthcoming
 
 ## Fiction
-"I Play My Part." *Terrain.org*
+"The Owl Cafe." *Orca*, Issue 15.
 
-"Extinction Debt." *Blue Earth Review*
+"The Scientists." *Orca*, Issue 16.
