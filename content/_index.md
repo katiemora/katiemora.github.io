@@ -10,6 +10,8 @@ menu:
 # Works
 
 ## Fiction
+"The Owl Café." *Orca*, Issue 15 (Winter/The Literary Issue), 2024, pp. 100-102.
+
 "Extinction Debt." *Blue Earth Review*, Issue 31 (Fall), 2023, pp. 25-31.
 
 ["I Play My Part."](https://www.terrain.org/2023/fiction/i-play-my-part/) *Terrain.org*, November 14, 2023.
@@ -30,6 +32,4 @@ menu:
 # Forthcoming
 
 ## Fiction
-"The Owl Cafe." *Orca*, Issue 15.
-
 "The Scientists." *Orca*, Issue 16.
