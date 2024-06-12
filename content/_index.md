@@ -10,6 +10,9 @@ menu:
 # Works
 
 ## Fiction
+"The Scientists." *Orca*, Issue 16 (Spring/Summer; The Literary-Speculative Issue), 2024, pp. 21-23.
+An excerpt is available on the ([Orca website](https://orcalit.com/the-scientists/)
+
 "The Owl Café." *Orca*, Issue 15 (Winter/The Literary Issue), 2024, pp. 100-102.
 
 "Extinction Debt." *Blue Earth Review*, Issue 31 (Fall), 2023, pp. 25-31.
