@@ -31,8 +31,3 @@ menu:
 ["Doves."](https://thirdwednesdaymagazine.org/2023/05/18/doves-katie-mora/) *Third Wednesday*, Volume 26, Issue 3 (Summer), 2023, p. 53.  
 
 ["The Assumption."](https://accprogenitor58.wordpress.com/poetry/) *Progenitor Art & Literary Journal*, Volume 58, 2023, p. 19.
-
-# Forthcoming
-
-## Fiction
-"The Scientists." *Orca*, Issue 16.
