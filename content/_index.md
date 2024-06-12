@@ -11,7 +11,7 @@ menu:
 
 ## Fiction
 "The Scientists." *Orca*, Issue 16 (Spring/Summer; The Literary-Speculative Issue), 2024, pp. 21-23.  
-*An excerpt is available on the [Orca website](https://orcalit.com/the-scientists/)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*An excerpt is available on the [Orca website](https://orcalit.com/the-scientists/)*
 
 "The Owl Café." *Orca*, Issue 15 (Winter/The Literary Issue), 2024, pp. 100-102.
 
