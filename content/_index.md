@@ -9,7 +9,12 @@ menu:
 
 # Works
 
+## Forthcoming Fiction
+
+"I Want It Darker." *The Summerset Review*, Spring 2025 issue.
+
 ## Fiction
+
 "The Scientists." *Orca*, Issue 16 (Spring/Summer; The Literary-Speculative Issue), 2024, pp. 21-23.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*An excerpt is available on the [Orca website](https://orcalit.com/the-scientists/)*
 
